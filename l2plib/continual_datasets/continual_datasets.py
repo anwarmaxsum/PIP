@@ -1,11 +1,4 @@
-# ------------------------------------------
-# Copyright (c) 2015-present, Facebook, Inc.
-# All rights reserved.
-# ------------------------------------------
-# Modification:
-# Added code for Simple Continual Learning datasets
-# -- Jaeho Lee, dlwogh9344@khu.ac.kr
-# ------------------------------------------
+
 import os
 
 import os.path
